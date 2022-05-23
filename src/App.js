@@ -1,12 +1,20 @@
 import React from 'react';
+import Calculator from './components/Calculator';
 import './style.css';
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Here goes the Header</h1>
-    </div>
-  );
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
+  render() {
+    return (
+      <React.StrictMode>
+        <Calculator />
+      </React.StrictMode>
+    );
+  }
 }
 
 export default App;
