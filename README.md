@@ -37,6 +37,10 @@ To get a local copy up and running follow these setup steps.
 
 - You may use this project as you like.
 
+## Live
+
+- Link here: [Github-Pages](https://yazino12.github.io/math-magicians-v2/)
+
 ## Authors
 
 👤 **Yasin**
