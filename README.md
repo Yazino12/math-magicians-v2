@@ -33,10 +33,6 @@ To get a local copy up and running follow these setup steps.
 - To build the app for production : `npm run build`
 - In case you run into any errors please raise an [issue](https://github.com/Yazino12/math-magicians/issues).
 
-**Usage**
-
-- You may use this project as you like.
-
 ## Live
 
 - Link here: [Github-Pages](https://yazino12.github.io/math-magicians-v2/)
