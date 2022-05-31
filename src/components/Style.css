@@ -1,10 +1,7 @@
 body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 900px;
-  margin: 0;
   font-family: 'Segoe UI', monospace;
+  min-width: 600px;
+  margin: 0;
 }
 
 h1,
@@ -12,6 +9,42 @@ h2,
 h3,
 p {
   margin: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 5em;
+  min-height: 900px;
+}
+
+.container nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  background-color: #e0e0e0;
+}
+
+.container nav .link-container {
+  display: flex;
+  gap: 2em;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+}
+
+.calculator-wrapper {
+  display: flex;
+  padding: 1em;
 }
 
 .calculator {
@@ -63,4 +96,19 @@ header .result {
 
 .buttons .double-sized {
   flex: 2.93;
+}
+
+.quote {
+  margin: auto;
+  width: 80%;
+}
+
+.quote p {
+  text-align: center;
+  font-weight: 600;
+}
+
+.active-link {
+  color: orangered;
+  text-decoration: none;
 }
