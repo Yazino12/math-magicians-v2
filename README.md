@@ -43,6 +43,12 @@ To get a local copy up and running follow these setup steps.
 
 - GitHub: [@Yazino12](https://github.com/Yazino12)
 
+## Collaborator
+
+👤 **Lekan**
+
+- GitHub: [@d2ndjim](https://github.com/d2ndjim)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
