@@ -24,9 +24,3 @@ describe('calculate tests', () => {
     expect(res.total).toBe('25');
   });
 });
-
-
-
-
-
-
