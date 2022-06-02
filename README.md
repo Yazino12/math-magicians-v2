@@ -36,6 +36,8 @@ To get a local copy up and running follow these setup steps.
 ## Live
 
 - Link here: [Github-Pages](https://yazino12.github.io/math-magicians-v2/)
+- Link here: [Heroku](https://math-magicians-v2.herokuapp.com/)
+- Link here: [Netlify](https://math-magicians-v2.netlify.app/)
 
 ## Authors
 
